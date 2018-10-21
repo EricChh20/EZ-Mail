@@ -2,7 +2,7 @@
 
 ## Setup
 
-Ensure Python, Pip, and Virtualenv are installed.
+Ensure Python, Pip, Electron and Virtualenv are installed.
 
 Run the following command
 
