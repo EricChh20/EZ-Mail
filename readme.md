@@ -15,7 +15,7 @@ Run the following command
 Open two terminal windows. In the first window, run the following command:
 
 ```
-npm run
+npm start
 ```
 This will start the Electron frontend.
 
